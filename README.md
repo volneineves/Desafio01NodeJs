@@ -1,6 +1,6 @@
 # Ignite Nodejs: Desafio 01
 
-<img alt="Ignite", src="./assets/ignite_node_capa.png" />
+![Logo do Markdown](./assets/ignite_node_capa.png)
 
 <h3 align="center">
   Desafio 01: Conceitos do Node.js
