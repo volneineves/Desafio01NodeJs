@@ -1,4 +1,4 @@
-# Ignite Nodejs: Desafio 01
+# Ignite Nodejs: Chapter I
 
 ![Logo do Markdown](./assets/ignite_node_capa.png)
 
